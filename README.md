@@ -20,7 +20,7 @@ Use somente contra números comprovadamente envolvidos em golpes ou atividades i
 3. No Chrome, caso apareça o erro sobre colagem, digite primeiro:
    ```javascript
    allow pasting
-
+   ```
    E pressione Enter
 
 Copie todo o código abaixo e cole no console:
