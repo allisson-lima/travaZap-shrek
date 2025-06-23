@@ -32,7 +32,7 @@ async function enviarScript(scriptText) {
         // Envia a mensagem após um pequeno intervalo
         setTimeout(() => {
             (main.querySelector(`[data-testid="send"]`) || 
-             main.querySelector(`[data-icon="send"]`)).click();
+             main.querySelector(`[data-icon="wds-ic-send-filled"]`)).click();
         }, TEMPO_APOS_DIGITAR);
         
         // Aguarda intervalo entre mensagens (exceto após a última)
